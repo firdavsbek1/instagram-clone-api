@@ -3,8 +3,8 @@ Created the API for Instagram Like App
 
 Built Api for Instagram Like Application where all the basic concepts are included. Most importantly The Authentication is well planned: divided into different stages and 
 this way user can be handled when he is at some stage and phone turnof or just leave application. A way to track user authentication status is implemented. Validations for 
-all the fields are well written in the serializers so that database would be kept free and clean.
--------------- Concepts Implemented----------------------
+all the fields are well written in the serializers so that database would be kept free and clean.                                                                    
+-------------- Concepts Implemented----------------------                                                                                                            
 1.CustomUser Model -> change to USER_AUTH_MODEL
 2.Authentication & Authorization -> 401 & 403 Errors are made use of.
 3.Sending Email with Threading(Asynchronous programming)
