@@ -1,0 +1,6 @@
+.env
+media
+.idea
+Pipfile.lock
+Pipfile
+__pycache__/
